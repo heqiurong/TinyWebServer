@@ -1,0 +1,3 @@
+/mnt/d/spring/c++/TinyWebServer/build/CMakeFiles/server.dir
+/mnt/d/spring/c++/TinyWebServer/build/CMakeFiles/edit_cache.dir
+/mnt/d/spring/c++/TinyWebServer/build/CMakeFiles/rebuild_cache.dir
